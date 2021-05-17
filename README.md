@@ -1,19 +1,16 @@
-# Telegram Voice Chat UserBot
 
-A Telegram UserBot to Play Audio in Voice Chats.
+# 𝙈𝙄𝙎𝙎 𝙆𝙍𝙄𝙎𝙏𝙄𝙉𝘼
+<p align="center">
+  <img src="https://telegra.ph/file/95a4e9bf8860446c7d150.jpg">
+</p>
 
-This is also the source code of the userbot which is being used for playing
-DJ/Live Sets music in [VC DJ/Live Sets](https://t.me/VCSets) group.
+# 𝙈𝙄𝙎𝙎 𝙆𝙍𝙄𝙎𝙏𝙄𝙉𝘼
+Me On Telegram [✨𝙈𝙄𝙎𝙎 𝙆𝙍𝙄𝙎𝙏𝙄𝙉𝘼✨](https://t.me/MISS_KRISTINA_BOT)
 
-Made with [tgcalls](https://github.com/MarshalX/tgcalls)
-and [Pyrogram Smart Plugin](https://docs.pyrogram.org/topics/smart-plugins)
+Deploy To Heroku
 
-It's recommended to use [tgmusicbot](https://github.com/callsmusic/tgmusicbot)
-along with this userbot.
 
-## Deploy to Heroku
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/callsmusic/tgvc-userbot/tree/dev)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xdipesh/MissKristinaMusicBot/tree/dev)
 
 - Generate Pyrogram session string by
   running [generate-pyrogram-session-string.py](generate-pyrogram-session-string.py)
