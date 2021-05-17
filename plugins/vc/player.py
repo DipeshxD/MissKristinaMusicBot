@@ -61,9 +61,9 @@ __starts with ! (exclamation mark)__
 \u2022 `!unmute`  unmute the VC userbot
 """
 
-USERBOT_REPO = f"""{emoji.ROBOT} **Telegram Voice Chat UserBot**
+USERBOT_REPO = f"""{emoji.ROBOT} **MissKristinaMusicBotVoice Chat UserBot**
 
-- Repository: [GitHub](https://github.com/callsmusic/tgvc-userbot)
+- Repository: [GitHub](https://github.com/xdipesh/MissKristinaMusicBot)
 - License: AGPL-3.0-or-later"""
 
 # - Pyrogram filters
