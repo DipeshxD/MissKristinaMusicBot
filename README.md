@@ -12,6 +12,7 @@ Deploy To Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xdipesh/MissKristinaMusicBot/tree/dev)
 
+Make String Session from here [![Run on Repl.it](https://replit.com/badge/github/xdipesh/MissKristinaMusicBot)](https://replit.com/@Dipeshx95/GenerateStringSession#main.py)
 - Generate Pyrogram session string by
   running [generate-pyrogram-session-string.py](generate-pyrogram-session-string.py)
   by yourself or
